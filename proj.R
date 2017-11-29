@@ -20,6 +20,8 @@ write_csv(loan16, "LoanStats2016")
 loan17 <- rbind(loan1701, loan1702, loan1703)
 loan1701 <- NaN
 loan1702 <- NaN
-loan1703 <- NaN45 
+loan1703 <- NaN
 write_csv(loan17, "LoanStats2017")
+
+
 
